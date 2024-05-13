@@ -61,7 +61,7 @@ function App() {
         <div className="flex text-sm gap-x-2">
           <div className="flex items-center gap-x-1">
             <input type="range" 
-            min={2}
+            min={5}
             max={30}
             value={length}
             className="cursor-pointer"
