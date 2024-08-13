@@ -25,8 +25,7 @@ function App() {
       <h2>Counter Value: <b>{counter}</b></h2>
       <div className="button"><button onClick={addValue}>Add Value</button>
       <br /><button onClick={removeValue}>Remove Value</button></div>
-      
-      <h3>Cc: Xyrix</h3>
+    
     </>
   )
 }
